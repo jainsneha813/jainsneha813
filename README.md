@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Sneha Jain 👋
 
-<!--
-**jainsneha813/jainsneha813** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- Digital Marketer
+- Canva Designer
+- E-commerce Enthusiast
+- AI & Technology Learner
 
-Here are some ideas to get you started:
+## Skills
+- Social Media Marketing
+- Graphic Design (Canva)
+- E-Commerce Management
+- Content Creation
+- AI Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Learning
+- AI Automation
+- Web Technologies
+- Open Source Development
+
+## Goals
+- Build useful digital projects
+- Contribute to open-source communities
+- Grow as an AI and technology professional
+
+## Connect With Me
+- GitHub: @jainsneha813
