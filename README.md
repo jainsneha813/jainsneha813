@@ -8,7 +8,7 @@
 
 ## Skills
 - Social Media Marketing
-- Graphic Design (Canva)
+- Graphic Designing
 - E-Commerce Management
 - Content Creation
 - AI Tools
